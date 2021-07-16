@@ -5,7 +5,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/LuxGIA-5c005c6fc9e77c0001e71104.jpeg
     background_image_opacity: 65
     content: >-
       # Real, beautiful plants right to your door
