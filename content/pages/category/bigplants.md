@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: Our Brand Partners
 layout: category
 order: 1
 seo:
