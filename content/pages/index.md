@@ -14,7 +14,7 @@ sections:
       enable Cart actions.
     actions:
       - title: Contact Us
-        url: /store
+        url: 'https://wa.me/6287880880475'
         arrow: true
         style: primary
   - type: featured_products_section
